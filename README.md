@@ -1,5 +1,5 @@
-<h1 style="text-align:center"> Hi 👋 </h1>
-<h1 style="text-align:center">I am [Farhan] (https://www.github.com/farhantanvir9z "My github account link");</h1>
+#Hi 👋 
+#I am [Farhan](https://www.github.com/farhantanvir9z "My github account link")
  
 
 <!---
