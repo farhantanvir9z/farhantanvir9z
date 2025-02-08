@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋 </h1> 
 
-<h2 align="center">
+<img src="social-media-image/facebook_logo.png">
 
- I am [Farhan](https://www.github.com/farhantanvir9z "My github account link")</h2>
+
+
 
 <!---
 farhantanvir9z/farhantanvir9z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
