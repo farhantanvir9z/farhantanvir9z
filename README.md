@@ -40,8 +40,8 @@ ___
 # Let’s Connect & Collaborate!
 
 <pre>
-<a href="https://www.facebook.com/profile.php?id=61559513533330" target="_blank"> <img src="social-media-image/facebook_logo.png" height="50px" width="50px">   </a>   <a href="https://www.youtube.com/@farhantanvir9z" target="_blank"> <img src="social-media-image/youtube_logo_white.png" height="50px" width="50px">   </a>    <a href="https://www.linkedin.com/in/farhantanvir9z" target="_blank"> <img src="social-media-image/linkedin_logo_blue.png" height="50px" width="50px"></a>   <a href="https://www.x.com/farhantanvir9z" target="_blank"> <img src="social-media-image/x_logo_white.png" height="50px" width="50px">   </a>    <a href="mailto:farhantanvir200000@gmail.com" target="_blank"> <img src="social-media-image/gmail_logo.png" height="50px" width="50px">   </a>
-</pre>
+<a href="https://www.facebook.com/profile.php?id=61559513533330" target="_blank"> <img src="social-media-image/facebook_logo.png" height="50px" width="50px">   </a>   <a href="https://www.youtube.com/@farhantanvir9z" target="_blank"> <img src="social-media-image/youtube_logo.png" height="50px" width="50px">   </a>    <a href="https://www.linkedin.com/in/farhantanvir9z" target="_blank"> <img src="social-media-image/linkedin_logo_blue.png" height="50px" width="50px"></a>   <a href="mailto:farhantanvir200000@gmail.com" target="_blank"> <img src="social-media-image/gmail_logo.png" height="50px" width="50px">   </a>    <a href="https://www.x.com/farhantanvir9z" target="_blank"> <img src="social-media-image/x_logo_white.png" height="50px" width="50px">   </a>    
+</p>
 ___
 <h2 align="center"> ❤️❤️ Thank you very much for visiting my profile.
 </h2>
