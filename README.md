@@ -32,6 +32,7 @@ ___
 - [x] TailwindCSS
 - [ ] Bootstrap
 - [x] Javascript
+- [x] Git & Github
 - [ ] ReactJs
 - [ ] Express.js
 - [ ] NodeJs
