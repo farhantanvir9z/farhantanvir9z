@@ -34,8 +34,8 @@ ___
 - [x] Javascript
 - [x] Git & Github
 - [ ] ReactJs
-- [ ] Express.js
-- [ ] NodeJs
+- [x] Express.js
+- [x] NodeJs
 - [ ] MongoDB
 
 # Let’s Connect & Collaborate!
